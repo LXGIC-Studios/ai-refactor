@@ -1,5 +1,11 @@
 # ai-refactor
 
+[![npm version](https://img.shields.io/npm/v/ai-refactor.svg)](https://www.npmjs.com/package/ai-refactor)
+[![npm downloads](https://img.shields.io/npm/dm/ai-refactor.svg)](https://www.npmjs.com/package/ai-refactor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+AI-powered code refactoring with colored diffs. Like having a code review buddy who doesn't get tired.
+
 Point it at a file and get refactoring suggestions with colored diffs. Like having a code review buddy who doesn't get tired.
 
 ## Install

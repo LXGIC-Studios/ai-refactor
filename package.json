@@ -10,10 +10,20 @@
     "build": "tsc"
   },
   "keywords": [
-    "refactor",
-    "code-review",
     "ai",
-    "diff"
+    "openai",
+    "gpt",
+    "refactor",
+    "refactoring",
+    "code-review",
+    "code-quality",
+    "clean-code",
+    "diff",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs"
   ],
   "license": "MIT",
   "dependencies": {
