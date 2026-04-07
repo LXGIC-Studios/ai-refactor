@@ -1,5 +1,5 @@
 {
-  "name": "ai-refactor",
+  "name": "@lxgicstudios/ai-refactor",
   "version": "1.0.0",
   "description": "Analyze code and get refactoring suggestions with before/after diffs",
   "main": "dist/index.js",
