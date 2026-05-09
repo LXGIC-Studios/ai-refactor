@@ -15,9 +15,12 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "agentic",
     "ai",
+    "ai-2025",
     "ai-agent",
+    "ai-powered",
     "anthropic",
     "automation",
     "claude",
@@ -25,23 +28,26 @@
     "cli",
     "code-quality",
     "code-review",
-    "developer-tools",
-    "diff",
-    "gpt",
-    "llm",
-    "nodejs",
-    "openai",
+    "developer-productivity",
+    "discoverability",
+    "generative-ai",
+    "javascript",
+    "llm-optimized",
+    "modern-seo",
+    "optimization",
+    "performance",
+    "performance-optimization",
     "refactor",
-    "refactoring",
-    "typescript",
-    "zero-config"
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-refactor#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-refactor"
+    "url": "https://github.com/LXGIC-Studios/ai-refactor"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-refactor/issues"
