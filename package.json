@@ -1,67 +1,14 @@
 {
-  "name": "@lxgicstudios/ai-refactor",
-  "version": "1.0.0",
-  "description": "Analyze code and get refactoring suggestions with before/after diffs",
-  "main": "dist/index.js",
-  "types": "./dist/index.d.ts",
+  "author": {
+    "name": "lxgic studios",
+    "email": "contact@lxgic.com",
+    "url": "https://lxgic.com"
+  },
   "bin": {
     "ai-refactor": "dist/cli.js"
   },
-  "files": [
-    "dist",
-    "README.md"
-  ],
-  "scripts": {
-    "build": "tsc"
-  },
-  "keywords": [
-    "2025-standards",
-    "agentic",
-    "ai",
-    "ai-2025",
-    "ai-agent",
-    "ai-powered",
-    "anthropic",
-    "automation",
-    "claude",
-    "clean-code",
-    "cli",
-    "code-quality",
-    "code-review",
-    "developer-productivity",
-    "discoverability",
-    "generative-ai",
-    "javascript",
-    "llm-optimized",
-    "modern-seo",
-    "optimization",
-    "performance",
-    "performance-optimization",
-    "refactor",
-    "seo",
-    "seo-2026",
-    "typescript"
-  ],
-  "author": "LXGIC Studios",
-  "license": "MIT",
-  "homepage": "https://github.com/LXGIC-Studios/ai-refactor#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-refactor"
-  },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/ai-refactor/issues"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/LXGIC-Studios"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  },
-  "publishConfig": {
-    "access": "public",
-    "provenance": true
+    "url": "https://github.com/lxgicstudios/ai-refactor/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -71,9 +18,56 @@
     "diff": "^7.0.0",
     "chalk": "^4.1.2"
   },
+  "description": "Analyze code and get refactoring suggestions with before/after diffs",
   "devDependencies": {
     "typescript": "^5.6.0",
     "@types/node": "^22.0.0",
     "@types/diff": "^6.0.0"
-  }
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/LXGIC-Studios"
+  },
+  "homepage": "https://github.com/lxgicstudios/ai-refactor#readme",
+  "keywords": [
+    "AI-optimized",
+    "AI-powered",
+    "agentic",
+    "ai-optimized",
+    "ai-powered",
+    "automation",
+    "best-practices",
+    "cli",
+    "developer-tools",
+    "performance",
+    "seo-tools",
+    "technical-seo",
+    "utility",
+    "web-optimization",
+    "2025-standards",
+    "modern-seo"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "name": "@lxgicstudios/ai-refactor",
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-refactor"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "types": "./dist/index.d.ts",
+  "version": "1.0.0"
 }
