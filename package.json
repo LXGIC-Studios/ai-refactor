@@ -38,6 +38,9 @@
   "homepage": "https://github.com/lxgicstudios/ai-refactor#readme",
   "keywords": [
     "2026-standards",
+    "modern-seo",
+    "ai-powered",
+    "lxgic",
     "AI-optimized",
     "AI-powered",
     "agentic",
@@ -47,12 +50,8 @@
     "cli",
     "dev-automation",
     "developer-tools",
-    "modern-seo",
     "performance",
-    "seo-tools",
-    "technical-seo",
-    "utility",
-    "web-optimization"
+    "seo-tools"
   ],
   "license": "MIT",
   "main": "dist/index.js",
