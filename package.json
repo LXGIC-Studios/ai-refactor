@@ -41,7 +41,9 @@
     "refactoring",
     "clean-code",
     "maintainability",
-    "technical-debt"
+    "technical-debt",
+    "technical-seo",
+    "seo-audit"
   ],
   "license": "MIT",
   "main": "dist/index.js",
