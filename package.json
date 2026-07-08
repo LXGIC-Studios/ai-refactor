@@ -8,7 +8,7 @@
     "ai-refactor": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-refactor/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -18,7 +18,7 @@
     "diff": "^7.0.0",
     "chalk": "^4.1.2"
   },
-  "description": "Analyze code and get refactoring suggestions with before/after diffs",
+  "description": "Get AI-powered refactoring suggestions with before/after diffs. Analyze code for improvements in readability, performance, and patterns. Works with any language.",
   "devDependencies": {
     "typescript": "^5.6.0",
     "@types/node": "^22.0.0",
@@ -35,15 +35,30 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-refactor",
+  "homepage": "https://github.com/LXGIC-Studios/ai-refactor",
   "keywords": [
-    "code-quality",
     "refactoring",
+    "code-review",
+    "code-quality",
     "clean-code",
+    "optimization",
+    "ai",
+    "automation",
+    "cli",
+    "developer-tools",
+    "npx",
+    "typescript",
+    "nodejs",
+    "openai",
+    "anthropic",
+    "claude",
+    "cursor",
+    "gpt",
+    "copilot",
+    "devtools",
+    "vibe-coding",
     "maintainability",
-    "technical-debt",
-    "technical-seo",
-    "seo-audit"
+    "technical-debt"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -54,8 +69,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
-    "directory": "ai-refactor"
+    "url": "git+https://github.com/LXGIC-Studios/ai-refactor.git"
   },
   "scripts": {
     "build": "tsc"
