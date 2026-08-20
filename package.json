@@ -51,9 +51,7 @@
     "devtools",
     "gpt",
     "maintainability",
-    "nodejs",
-    "typescript",
-    "javascript"
+    "typescript"
   ],
   "license": "MIT",
   "main": "dist/index.js",
